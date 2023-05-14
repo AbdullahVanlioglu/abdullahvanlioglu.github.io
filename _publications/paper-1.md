@@ -1,10 +1,10 @@
 ---
-title: "Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents"
+title: 'Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents'
 collection: publications
 permalink: /publication/paper-1
-excerpt: 'Sequential Social Dilemmas are gaining attention in recent years. The current trends either focus on engineering incentive functions for modifying rewards to reach general welfare, or develop learning based approaches to modify the reward function by accounting for the impact of the incentive on policy updates. One of the most significant works in the learning based approach is LIO, which enables independent self-interested agents to incentivize each other by an additive incentive reward and demonstrates the method's success in several sequential social dilemma environments. We investigate LIO's performance under a variety of different setups in public goods game Cleanup in order to analyse its robustness against necessity of including inductive bias in incentive function, randomness in initial agent position with an option of asymmetric incentive potential, and assess its stability under frozen incentive functions after agents' explorations are reset. We observe and demonstrate empirically that LIO is indeed sensitive to these settings and it is not reliable for obtaining good incentives that would let the system stay stable when it is static. We conclude with some research directions that would improve the robustness of the method and incentive learning research.'
-date:
+date: 2022-11-14
+excerpt: ''
 venue: 'in Proceedings of the Conference of Computational Science and Computational Intelligence (CSCI), 2022.'
-paperurl:
+paperurl: ''
 citation: 'Guresti, B.*, Vanlioglu, A.*, Ure, Nazim Kemal, "Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents", in Proceedings of the Conference of Computational Science and Computational Intelligence (CSCI), 2022.'
 ---
