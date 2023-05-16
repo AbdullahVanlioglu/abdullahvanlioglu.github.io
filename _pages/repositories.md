@@ -10,7 +10,7 @@ author_profile: true
 
 [**Google Scholar**](https://github.com/AbdullahVanlioglu)
 
-{% for post in site.publications reversed %}
+{% for post in site.repositories reversed %}
 
     {% include archive-single.html %}
 
