@@ -16,20 +16,20 @@ author_profile: true
 *Published in In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023*
 
 
-<img style="float: right;" src="/images/cleanup.png" width='400' />
+<img style="float: right;" src="/images/cleanup.png" width='400'>
 
-Self-interested agents can not reach the cooperative objectives in MARL environments. In this paper, we propose an incentive mechanism that alters the reward structure of the agents. Unlike previous approaches, our method does not rely on assuming the agent's internal parameters or learning strategies. Instead, we leverage meta-gradient learning and offline reinforcement learning to ensure cooperative policy and agent self-interested policy yield identical actions. In another sense, our algorithm eliminates the social dilemma in the environment by providing incentives that encourage agents to behave cooperatively.
+Self-interested agents often fail to reach the cooperative objectives in MARL environments. In this paper, we propose an incentive mechanism that alters the reward structure of the agents. Unlike previous approaches, our method does not rely on assuming the agent's internal parameters or learning strategies. Instead, we leverage meta-gradient learning and offline reinforcement learning to ensure cooperative policy and agent self-interested policy yield identical actions. In another sense, our algorithm eliminates the social dilemma in the environment by providing incentives that encourage agents to behave cooperatively.
 
 [**Arxiv**](https://arxiv.org/abs/2302.14604)
 [**Code**](https://github.com/data-and-decision-lab/IQ-Flow)
 
+<br>
 
 **Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents**
 *Published in in Proceedings of the Conference of Computational Science and Computational Intelligence (CSCI 2022), 2022*
 
 
-<img style="float: right;" src="/images/big_all.png" width='400' />
-
+<img style="float: right;" src="/images/big_all.png" width='400'>
 
 Develop learning based approaches to modify the reward function is one of most efficient method to tackle social dilemma problems in multi-agent settings. One of the most significant works in the learning based approach is LIO, which enables independent self-interested agents to incentivize each other by an additive incentive reward and demonstrates the method's success in several sequential social dilemma environments. We investigate LIO's performance under a variety of different setups in public goods game Cleanup in order to analyse its robustness against necessity of including inductive bias in incentive function, randomness in initial agent position with an option of asymmetric incentive potential, and assess its stability under frozen incentive functions after agents' explorations are reset.
 
