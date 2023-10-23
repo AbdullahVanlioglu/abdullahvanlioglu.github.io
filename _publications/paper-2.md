@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas"
 collection: publications
 permalink: /publication/paper-2
@@ -10,4 +10,4 @@ paperurl: ''
 #citation: ''
 ---
 
-[Arxiv](https://arxiv.org/abs/2302.14604)
+[Arxiv](https://arxiv.org/abs/2302.14604) -->
