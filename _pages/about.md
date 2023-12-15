@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a master’s degree from Istanbul Technical University (ITU) and have worked as a researcher at the [Istanbul Technical University (ITU) Artificial Intelligence and Data Science Research Center](https://ai.itu.edu.tr/), under the supervision of Assoc. Prof. Nazım Kemal Üre.
+I hold a master’s degree from Istanbul Technical University (ITU) and have worked as a researcher at the [Istanbul Technical University (ITU) Artificial Intelligence and Data Science Research Center](https://ai.itu.edu.tr/), under the supervision of [Assoc. Prof. Nazım Kemal Üre](http://kemalure.com).
 
 During my thesis, I focused on tackling cooperation challenges in multi-agent environments, particularly social dilemmas, through the use of **Multi-Agent Deep Reinforcement Learning (MARL)**. In addition, I have collaborated with my colleagues in our lab to develop a generative model (GAN) that addresses **generalization challenges in RL**.
 
