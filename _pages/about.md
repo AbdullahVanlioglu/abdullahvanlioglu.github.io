@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I hold a master’s degree from Istanbul Technical University (ITU) and have worked as a researcher at the [Istanbul Technical University (ITU) Artificial Intelligence and Data Science Research Center](https://ai.itu.edu.tr/), under the supervision of [Assoc. Prof. Nazım Kemal Üre](http://kemalure.com).
+I hold a master’s degree from Istanbul Technical University (ITU) and worked as a researcher at the [Istanbul Technical University (ITU) Artificial Intelligence and Data Science Research Center](https://ai.itu.edu.tr/), under the supervision of [Assoc. Prof. Nazım Kemal Üre](http://kemalure.com). Currently, I am working as AI Research Engineer at Huawei. 
 
-During my thesis, I focused on tackling cooperation challenges in multi-agent environments, particularly social dilemmas, through the use of **Multi-Agent Deep Reinforcement Learning (MARL)**. In addition, I have collaborated with my colleagues in our lab to develop a generative model (GAN) that addresses **generalization & adaptation challenges in RL**.
 
-My research interests encompass a broad range of topics within RL. While my current focus lies in fundamental RL, I am highly motivated to explore other exciting areas within Deep Learning and Optimization as well. Currently, I am working on the **Offline RL** and its challenge: distributional shift, which occurs when policy values are evaluated for state-action pairs that are out-of-distribution.
+During my master's thesis, I focused on tackling cooperation challenges in multi-agent environments, particularly social dilemmas, through the use of **Multi-Agent Deep Reinforcement Learning (MARL)**. In addition to my work in MARL, I have explored various areas of interest within Reinforcement Learning (RL), including **Offline RL**, **Sequence Modeling (transformers)**, and **Generative Models (GAN & Diffusion Models)**. These explorations were aimed at effectively addressing the generalization and adaptation challenges present in RL systems.
+
+My current research interests are broad and encompass the realms of **Generalist AI** and **Sequential Decision Making**. One of the significant challenges in AI research is the inefficiency of current algorithms compared to the learning capabilities observed in humans or animals. Hence, I am driven by the pursuit of developing AI agents that can human-like level reason & plan effectively in complex environments.
