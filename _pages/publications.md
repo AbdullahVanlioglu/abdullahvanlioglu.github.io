@@ -6,12 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-**You can also find my articles on my Google Scholar profile**
-
-[**Google Scholar**](https://scholar.google.com/citations?user=KkoiLS4AAAAJ&hl=en&oi=ao)
-
-
-
 **IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas**
 *Published in In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023*
 
