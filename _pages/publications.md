@@ -20,8 +20,10 @@ author_profile: true
 
 Self-interested agents often fail to reach the cooperative objectives in MARL environments. In this paper, we propose an incentive mechanism that alters the reward structure of the agents. Unlike previous approaches, our method does not rely on assuming the agent's internal parameters or learning strategies. Instead, IQ-Flow leverages meta-gradient learning and offline reinforcement learning to ensure that both cooperative policies and agent self-interested policies yield identical actions. In another sense, our algorithm eliminates the social dilemma in the environment by providing incentives that encourage agents to behave cooperatively.
 
-[**Arxiv**](https://arxiv.org/abs/2302.14604)
-[**Code**](https://github.com/data-and-decision-lab/IQ-Flow)
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/data-and-decision-lab/IQ-Flow" class="btn btn-primary" style="text-decoration: none; padding: 10px 20px; background-color: #333; color: #fff; border-radius: 5px;">Code</a>
+  <a href="https://arxiv.org/abs/2302.14604" class="btn btn-secondary" style="text-decoration: none; padding: 10px 20px; background-color: #f16624; color: #fff; border-radius: 5px;">arXiv</a>
+</div>
 
 <br>
 
