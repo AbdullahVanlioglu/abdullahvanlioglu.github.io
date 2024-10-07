@@ -22,6 +22,11 @@ Modular-Baselines is a library designed for Reinforcement Learning (RL) research
 
 <br>
 
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/" class="btn btn-primary" style="text-decoration: none; padding: 10px 20px; background-color: #333; color: #fff; border-radius: 5px;">GitHub</a>
+  <a href="https://arxiv.org/" class="btn btn-secondary" style="text-decoration: none; padding: 10px 20px; background-color: #f16624; color: #fff; border-radius: 5px;">arXiv</a>
+</div>
+
 **You can find all of my repositories on my Github**
 
 [**Github**](https://github.com/AbdullahVanlioglu)
