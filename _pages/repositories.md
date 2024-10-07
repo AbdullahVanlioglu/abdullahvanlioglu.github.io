@@ -12,6 +12,8 @@ A modular and clean research framework for Generative AI, based on popular open-
 
 [**Modular-GenAI**](https://github.com/AbdullahVanlioglu/Modular-GenAI)
 
+<br>
+
 **Modular-Baselines**
 
 Modular-Baselines is a library designed for Reinforcement Learning (RL) research. Our goal is to provide a flexible, easy-to-use set of components that can be combined in various ways to enable experimentation with different RL algorithms.
