@@ -17,4 +17,5 @@ My research focuses broadly on **Generalist AI**, **Generative Models** and **Se
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/AbdullahVanlioglu/" class="btn btn-primary" style="text-decoration: none; padding: 10px 20px; background-color: #333; color: #fff; border-radius: 5px;">GitHub</a>
   <a href="https://scholar.google.com/citations?user=KkoiLS4AAAAJ&hl=en&oi=ao" class="btn btn-secondary" style="text-decoration: none; padding: 10px 20px; background-color: #f16624; color: #fff; border-radius: 5px;">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/abdvan/" class="btn btn-linkedin" style="text-decoration: none; padding: 10px 20px; background-color: #0077b5; color: #fff; border-radius: 5px;">LinkedIn</a>
 </div>
