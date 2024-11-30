@@ -14,8 +14,6 @@ During my master's thesis, I focused on tackling cooperation challenges in multi
 
 My research focuses broadly on **Generalist AI**, **Generative Models** and **Sequential Decision Making**. One of the significant challenges in AI research is the inefficiency of current algorithms relative to the learning abilities seen in humans and animals. Therefore, my goal is to advance AI agents capable of reasoning and long-term planning at a human-like level in complex environments/tasks.
 
-<br>
-
 Ultimate Goal:
 Develop Imperialist AI Agents marching across the universe to build the Galactic Empire again.
 
