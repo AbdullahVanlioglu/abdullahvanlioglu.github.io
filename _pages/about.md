@@ -17,7 +17,7 @@ My research focuses broadly on **Generalist AI**, **Generative Models** and **Se
 Ultimate Goal:
 Training Imperialist AI Agents marching across the universe to build Galactic Empire once again.
 
-<img src="/images/1500x1500.jpg" style="max-width:100%; height:auto;">
+<img src="/images/1500x500.jpg" style="max-width:100%; height:auto;">
 
 
 <div style="display: flex; gap: 10px;">
