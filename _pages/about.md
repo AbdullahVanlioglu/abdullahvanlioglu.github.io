@@ -14,6 +14,12 @@ During my master's thesis, I focused on tackling cooperation challenges in multi
 
 My research focuses broadly on **Generalist AI**, **Generative Models** and **Sequential Decision Making**. One of the significant challenges in AI research is the inefficiency of current algorithms relative to the learning abilities seen in humans and animals. Therefore, my goal is to advance AI agents capable of reasoning and long-term planning at a human-like level in complex environments/tasks.
 
+ULTIMA GOAL:
+Training Imperialist AI Agents marching across the universe to build Galactic Empire once again.
+
+<img src="/images/1500x1500.png" style="max-width:100%; height:auto;">
+
+
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/AbdullahVanlioglu/" class="btn btn-primary" style="text-decoration: none; padding: 10px 20px; background-color: #333; color: #fff; border-radius: 5px;">GitHub</a>
   <a href="https://scholar.google.com/citations?user=KkoiLS4AAAAJ&hl=en&oi=ao" class="btn btn-secondary" style="text-decoration: none; padding: 10px 20px; background-color: #f16624; color: #fff; border-radius: 5px;">Google Scholar</a>
