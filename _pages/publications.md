@@ -6,6 +6,20 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+**Entropy-Guided Sequence Weighting for Efficient Exploration in RL-Based LLM Fine-Tuning**
+*2025*
+
+<img style="float: right;" src="/images/training_reward_std_2.png" width='400'>
+
+RL-based fine-tuning approaches emerged as effective approach for improving reasoning capabilities of the LLMs. However, fine-tuning LLMs with RL presents significant
+challenges, particularly in high-dimensional state spaces where efficient exploration is crucial. Exploration methods such as Monte-Carlo Search Tree (MCTS) have been
+highly successful in structured domains like games. But, computation cost of MCTS makes it impratical for LLM fine-tuning. To overcome these challenges, we introduce
+Entropy-Guided Sequence Weighting, a method that improves exploration efficiency in RL-based LLM fine-tuning while maintaining computational feasibility. Our method
+dynamically balances exploration and exploitation by assigning adaptive weights to generated sequences based on their entropy and advantage values.
+
+
+
 **IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas**
 *Published in In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023*
 
