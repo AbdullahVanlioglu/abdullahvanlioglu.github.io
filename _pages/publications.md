@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Entropy-Guided Sequence Weighting for Efficient Exploration in RL-Based LLM Fine-Tuning**
-*2025*
+*Preprint, 2025*
 
 <img style="float: right;" src="/images/training_reward_std_2.png" width='400'>
 
@@ -21,7 +21,7 @@ highly successful in games (AlphaZero) and inference-time search (Chatgpt-o1). B
 </div>
 
 **IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas**
-*Published in In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023*
+*Published in In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023*
 
 <img style="float: right;" src="/images/cleanup.png" width='400'>
 
@@ -35,7 +35,7 @@ Self-interested agents often fail to reach the cooperative objectives in MARL en
 <br>
 
 **Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents**
-*Published in in Proceedings of the Conference of Computational Science and Computational Intelligence (CSCI 2022), 2022*
+*Published in in Proceedings of the Conference of Computational Science and Computational Intelligence (CSCI), 2022*
 
 
 <img style="float: right;" src="/images/big_all.png" width='400'>
