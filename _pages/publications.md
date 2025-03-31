@@ -20,7 +20,7 @@ highly successful in games (AlphaZero) and inference-time search (Chatgpt-o1). B
   <a href="https://arxiv.org/abs/2503.22456" class="btn btn-secondary" style="text-decoration: none; padding: 10px 20px; background-color: #f16624; color: #fff; border-radius: 5px;">arXiv</a>
 </div>
 
-**IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas**
+**IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas**<br>
 *Published in In Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023*
 
 <img style="float: right;" src="/images/cleanup.png" width='400'>
@@ -34,7 +34,7 @@ Self-interested agents often fail to reach the cooperative objectives in MARL en
 
 <br>
 
-**Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents**
+**Empirical Robustness Analysis of Learning to Incentivize Other Self-Interested Agents**<br>
 *Published in in Proceedings of the Conference of Computational Science and Computational Intelligence (CSCI), 2022*
 
 
