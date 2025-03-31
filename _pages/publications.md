@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Entropy-Guided Sequence Weighting for Efficient Exploration in RL-Based LLM Fine-Tuning**
+**Entropy-Guided Sequence Weighting for Efficient Exploration in RL-Based LLM Fine-Tuning**<br>
 *Preprint, 2025*
 
 <img style="float: right;" src="/images/training_reward_std_2.png" width='400'>
