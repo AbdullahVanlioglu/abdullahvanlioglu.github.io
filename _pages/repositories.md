@@ -26,7 +26,7 @@ Modular-Baselines is a library designed for Reinforcement Learning (RL) research
 
 <br>
 
-**Agentflow**
+**AgentFlow**
 
 AgentFlow is a modular, multi-agent, framework-agnostic system designed for intelligent document processing and analysis. It is being extended into a generalist AI platform capable of solving complex, long-horizon planning tasks. This evolution will enable AgentFlow to orchestrate specialized agents for reasoning, decision-making, and adaptive execution across diverse domains.
 
