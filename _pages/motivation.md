@@ -23,8 +23,8 @@ That’s where everything fell apart. <br>
 Do I really look like a guy with a plan?<br>
 I'm a dog chasing cars. I wouldn't know what to do with one if I caught it!
 
-So, let's leave fate to the dices.<br>
-In probabilistic manner, at every crossroad in my destiny — **I roll.**
+So I embrace the randomness — and let the dice decide.<br>
+At every crossroad of destiny — **I roll.**
 
 But make no mistake:<br>
 When the Galactic Empire is forged, there will be no laws.  
