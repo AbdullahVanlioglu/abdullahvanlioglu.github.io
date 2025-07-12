@@ -13,14 +13,14 @@ I have one single ultimate goal: become **the Galactic Emperor.**
 Before dreaming of the Galactic Empire, I knew it would require seizing two core objectives: power and a comprehensive plan.
 
 The first part was cheap.  
-When I awakened as an Undead in a lovely graveyard, I wasn't aware anything about the world. 
+When I awakened as an Undead in a lovely graveyard, I wasn't aware anything about the world.<br>
 But to gain power, I educated myself in Magic, Shadows and Fire.
 
-However, the second part — the plan — is the real struggle.
-Do I really look like a guy with a plan? 
+However, the second part — the plan — is the real struggle.<br>
+Do I really look like a guy with a plan?<br>
 I'm a dog chasing cars. I wouldn't know what to do with one if I caught it!
 
-So, lets leave fate to the dices.
+So, lets leave fate to the dices.<br>
 In true probabilistic fashion, for every crossroad in my destiny — **I roll.**
 
 But make no mistake:
@@ -39,7 +39,7 @@ No!
 
 We will wear our armor, mount our horses and ride into the nebulae.
 
-Also, there won't be any headquarters.
+Also, there won't be any headquarters.<br>
 We will rule the galaxy from a tavern.
 
 <div style="text-align: center; margin: 20px 0;">
