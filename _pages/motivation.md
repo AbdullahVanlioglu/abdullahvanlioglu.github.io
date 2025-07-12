@@ -44,7 +44,7 @@ We will wear our armor, mount our horses and ride into the nebulae.<br>
 
 Also, there won't be any headquarters.<br>
 No thrones, no boardrooms.<br>
-We will rule the galaxy from a tavern.
+We will rule the galaxy from a **tavern**.
 
 <div style="text-align: center; margin: 20px 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iCn14KLCerY" frameborder="0" allowfullscreen></iframe>
