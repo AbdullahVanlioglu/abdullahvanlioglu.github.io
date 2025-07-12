@@ -10,11 +10,11 @@ author_profile: true
 I have one single ultimate goal: become **the Galactic Emperor.**
 
 
-Before dreaming of the Galactic Empire, I knew it would required seizing two things: power and a plan.
+Before dreaming of the Galactic Empire, I knew it would require seizing two things: power and a plan.
 
 The first part was cheap.  
-I awakened as an Undead in a silent graveyard, under the pale moonlight of forsaken lands.<br>
-I wasn't aware anything about the world.<br>
+I awakened as an Undead in a silent graveyard, under the pale moonlight of forgotten lands.<br>
+I knew nothing about my past. The only thing I felt — was that I was Forsaken.<br>
 But to gain power, I educated myself in Magic, Shadows and Fire.
 
 But the plan? <br>
