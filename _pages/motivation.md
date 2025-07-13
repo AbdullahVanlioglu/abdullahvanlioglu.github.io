@@ -12,10 +12,10 @@ I have one single ultimate goal: become **the Galactic Emperor.**
 
 Before dreaming of the Galactic Empire, I knew it would require seizing two things: power and a plan.
 
-The first part was cheap.  
-I awakened as an Undead in a silent graveyard, under the pale moonlight of forgotten lands.<br>
-I knew nothing about my past. The only thing I felt — was that I was Forsaken.<br>
-But to gain power, I educated myself in Magic, Shadows and Fire.
+Power? That was easy.
+I awakened as an Undead in a silent graveyard under the pale moonlight of forgotten lands.<br>
+My past was a void. The only thing I felt — was that I had been Forsaken.<br>
+To gain power, I mastered the magic, walked among shadows, and commanded the fire.
 
 But the plan? <br>
 That’s where everything fell apart. <br>
@@ -30,7 +30,7 @@ But make no mistake:<br>
 When the Galactic Empire is forged, there will be no laws.  
 No order.  
 No treaties.  
-No boring bureaucracies or galactic councils.
+No boring bureaucracies or councils.
 
 There will be only **chaos** — pure, glorious chaos — and I shall reign at its heart.
 
