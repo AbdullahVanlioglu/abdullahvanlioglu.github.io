@@ -15,7 +15,7 @@ Before dreaming of the Galactic Empire, I knew it would require seizing two thin
 Power? That was easy.<br>
 I awakened as an Undead in a silent graveyard under the pale moonlight of forgotten lands.
 My past was a void. The only thing I felt — was that I had been Forsaken.<br>
-To gain power, I mastered the magic, walked among shadows, and commanded the fire.
+Driven by that emptiness, I mastered the magic, walked among shadows, and commanded the fire.
 
 But the plan? <br>
 That’s where everything fell apart. <br>
