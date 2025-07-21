@@ -40,7 +40,7 @@ There will be only **chaos** — pure, glorious chaos — and I shall reign at i
 No!
 
 We will wear our armor, mount our horses and ride into the nebulae.<br>
-“The Horn of Helm Hammerhand shall sound in the deep, one last time!”
+*“The Horn of Helm Hammerhand shall sound in the deep, one last time!”*
 
 Also, there won't be any headquarters.<br>
 No thrones, no boardrooms.<br>

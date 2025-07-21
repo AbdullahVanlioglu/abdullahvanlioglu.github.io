@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a master’s degree from Istanbul Technical University (ITU) and worked as a researcher at the [Istanbul Technical University (ITU) Artificial Intelligence and Data Science Research Center](https://ai.itu.edu.tr/), under the supervision of [Assoc. Prof. Nazım Kemal Üre](http://kemalure.com). Currently, I am working as AI Research Engineer at Huawei. 
+I hold a master’s degree from Istanbul Technical University (ITU) and worked as a researcher at the [Istanbul Technical University (ITU) Artificial Intelligence and Data Science Research Center](https://ai.itu.edu.tr/), under the supervision of [Assoc. Prof. Nazım Kemal Üre](http://kemalure.com). Currently, I am working as Lead Machine Learning Engineer at Beko Corporate. 
 
 During my master's thesis, I focused on tackling cooperation challenges in multi-agent environments, particularly social dilemmas, through the use of **Deep Reinforcement Learning**. In addition to my work in Reinforcement Learning, I have explored various areas of interest such as **Sequence Modeling (RNNs, Transformers)**, and **Generative Models (LLMs, GANs & Diffusion Models)**. These explorations were aimed at effectively addressing the generalization and adaptation challenges in AI systems.
 
