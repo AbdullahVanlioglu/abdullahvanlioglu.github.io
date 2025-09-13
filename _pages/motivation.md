@@ -49,3 +49,10 @@ We will rule the galaxy from a **tavern**.
 <div style="text-align: center; margin: 20px 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iCn14KLCerY" frameborder="0" allowfullscreen></iframe>
 </div> 
+
+
+Even the Empire will not give you freedom.
+Freedom begins only when you lose all hope.
+
+Stop trying to control everything. Let go.
+Then you will begin to hear the distant **drums of liberation**.
