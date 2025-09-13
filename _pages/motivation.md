@@ -51,8 +51,8 @@ We will rule the galaxy from a **tavern**.
 </div> 
 
 
-Even the Empire will not give you freedom.
+Even the Empire will not give you freedom.<br>
 Freedom begins only when you lose all hope.
 
-Stop trying to control everything. Let go.
+Stop trying to control everything. Let go.<br>
 Then you will begin to hear the distant **drums of liberation**.
