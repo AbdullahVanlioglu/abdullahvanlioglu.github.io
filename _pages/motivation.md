@@ -56,4 +56,4 @@ Even the Empire will not give you freedom.<br>
 Freedom begins only when you lose all hope.
 
 Stop trying to control everything. Let go.<br>
-Then you will begin to hear the distant drums of liberation.
+Then you will begin to hear the distant echoes of drums of liberation.
