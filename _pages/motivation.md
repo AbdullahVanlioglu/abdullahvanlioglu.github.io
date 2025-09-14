@@ -51,6 +51,7 @@ We will rule the galaxy from a **tavern**.
 </div> 
 
 
+Be aware of that:<br>
 Even the Empire will not give you freedom.<br>
 Freedom begins only when you lose all hope.
 
